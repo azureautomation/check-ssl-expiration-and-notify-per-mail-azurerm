@@ -1,0 +1,20 @@
+{
+    "Author": "bramstoopcom",
+    "ContentSize": 4699,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/check-ssl-expiration-and-notify-per-mail-azurerm/master/check_ssl_expiry_send_notification_per_mail.ps1",
+    "DownloadCount": 3422,
+    "Id": "Check-SSL-expiration-and-ce5305f2",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 35,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-8-2T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This runbook will check all certificates, within your subscription, on expiration date.By default it uses sendgrid for mail notifications whenever a certificate hits the given treshold.Please leave me feedback when you feel like this runbook needs improvements.Obvio",
+    "Title": "Check SSL expiration and notify per mail [AzureRM]",
+    "UpdatedDate": "2019-9-13T00:00:00",
+    "Url": "https://github.com/azureautomation/check-ssl-expiration-and-notify-per-mail-azurerm",
+    "UserTags": "Certificate, Monitoring, Dev / Test Environments"
+}
